@@ -1,5 +1,3 @@
-## Hi there 👋
-
 <!--
 **daveborrel/daveborrel** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -14,7 +12,14 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+# Hi, I'm Dave. Nice to meet you!
 
-### Lets Connect!
+- 🔭 I’m currently working on [Octagon Oracle](https://github.com/daveborrel/octagon_oracle) and []()
+- 🌱 I’m currently learning AWS Cloud Practitiner Certification, VIM, and Rust.
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daveborrel/))
+### 🤝 Lets Connect!
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daveborrel/)
+
+### 📊 GitHub Stats:
+![Your Stats](https://github-readme-stats.vercel.app/api?username=yourusername&show_icons=true&hide_title=true&count_private=true)
